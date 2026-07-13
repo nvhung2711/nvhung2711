@@ -18,7 +18,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nvhung2711/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="nvhung2711.dev"><img src="https://img.shields.io/badge/Website-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.nvhung2711.dev"><img src="https://img.shields.io/badge/Website-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 </p>
 
 ---
