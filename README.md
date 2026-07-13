@@ -10,44 +10,26 @@
 
 ---
 
-### 👋 About me
+### About me
 
-- 💻 Full-stack Web Developer & AI Native Engineer based in Sydney, Australia
-- ⚛️ I build for the web with **React**, **Next.js**, and **TypeScript**
-- 🤖 Currently focused on leveling up my workflow with AI agents
-- 📫 Reach me below
+-  Full-stack Web Developer & AI Native Engineer based in Sydney, Australia
+-  I build for the web with **React**, **Next.js**, and **TypeScript**
+-  Currently focused on leveling up my workflow with AI agents
 
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Website-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/nvhung2711/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="nvhung2711.dev"><img src="https://img.shields.io/badge/Website-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 </p>
-
-> _Replace the `#` in the LinkedIn and Website badges above with your actual URLs._
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,python,cs,cpp,html,css&theme=dark" alt="Languages" />
   <br />
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,postgres,git,github&theme=dark" alt="Frameworks & Tools" />
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nvhung2711&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Harry's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvhung2711&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-
-<br />
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=nvhung2711&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
 
 ---
 
