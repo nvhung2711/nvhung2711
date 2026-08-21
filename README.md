@@ -33,6 +33,18 @@
 
 ---
 
+### GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/denvercoder1/github-readme-streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=nvhung2711&theme=tokyonight&hide_border=true" alt="Harry Nguyen's GitHub streak" />
+</a>
+
+</div>
+
+---
+
 <div align="center">
 
 ⭐️ Thanks for stopping by my profile!
