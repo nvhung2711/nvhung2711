@@ -12,9 +12,9 @@
 
 ### About me
 
--  Full-stack Web Developer & AI Native Engineer based in Sydney, Australia
--  I build for the web with **React**, **Next.js**, and **TypeScript**
--  Currently focused on leveling up my workflow with AI agents
+- Junior Software Engineer at **Clear.ai**, building AI-powered global trade software for document processing, tariff classification, and durable cloud workflows.
+- Previously an AI Native Engineer at **Career Mentor**, where I built an LLM-powered resume tailoring tool that cut application customisation from about 30 minutes to under 2 minutes and supported a learning platform serving 300+ students.
+- I ship full-stack products with **TypeScript**, **React**, **Next.js**, **Node.js**, **PostgreSQL**, and **AWS**.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nvhung2711/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
